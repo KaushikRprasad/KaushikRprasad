@@ -2,4 +2,4 @@
 
 - 🌱 Currently learning Networking and Cybersecurity
 - 🛠️ Working on GitHub profile
-- 📫 Reach me at: kaushik@example.com 
+- 📫 Reach me at: kaushikrprasad13@gmail.com 
