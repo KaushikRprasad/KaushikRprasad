@@ -55,18 +55,11 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 💼 **Portfolio Website** | A responsive personal portfolio built with HTML, CSS, JS | [Live Demo](#) / [Repo](#) |
-| 🧠 **AI Chat App** | A chatbot built with React + OpenAI API | [Live Demo](#) / [Repo](#) |
-
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kaushik-r-27293b35a/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
