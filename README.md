@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **AI-integrated frontend projects**
 - 🌱 I’m learning **React.js**, **Next.js**, and **Machine Learning**
 - 💬 Ask me about **Web Development** and **AI tools**
-- 📫 How to reach me: **[kaushik@example.com](mailto:kaushikrprasad13@gmail.com)**
+- 📫 How to reach me: **[kaushikrprasad13@gmail.com](mailto:kaushikrprasad13@gmail.com)**
 - ⚡ Fun fact: I love creating clean, minimal UI with smart logic!
 
 ---
@@ -35,9 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KaushikRprasad&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikRprasad&theme=github-dark" alt="GitHub Streak" />
-</p>
+
 
 ---
 
