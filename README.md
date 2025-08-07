@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **AI-integrated frontend projects**
-- 🌱 I’m learning **React.js**, **Next.js**, and **Machine Learning**
+- 🌱 I’m learning **React.js**, **Node.js**, and **Machine Learning**
 - 💬 Ask me about **Web Development** and **AI tools**
 - 📫 How to reach me: **[kaushikrprasad13@gmail.com](mailto:kaushikrprasad13@gmail.com)**
 - ⚡ Fun fact: I love creating clean, minimal UI with smart logic!
