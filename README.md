@@ -38,12 +38,12 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KaushikRprasad&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
 </p>
 
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikRprasad&layout=compact&theme=github_dark" />
 </p>
 
