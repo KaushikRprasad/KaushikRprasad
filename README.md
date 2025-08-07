@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **AI-integrated frontend projects**
 - 🌱 I’m learning **React.js**, **Next.js**, and **Machine Learning**
 - 💬 Ask me about **Web Development** and **AI tools**
-- 📫 How to reach me: **[kaushik@example.com](mailto:kaushik@example.com)**
+- 📫 How to reach me: **[kaushik@example.com](mailto:kaushikrprasad13@gmail.com)**
 - ⚡ Fun fact: I love creating clean, minimal UI with smart logic!
 
 ---
@@ -59,7 +59,7 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushik-r-27293b35a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushik-r-27293b35a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
