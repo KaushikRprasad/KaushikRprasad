@@ -28,7 +28,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 🎓 Education Timeline
 
+🎓 B.Tech in AI & ML  
+📍 Garden City University, Bangalore  
+📅 2022 – 2026  
+📌 Focus: Artificial Intelligence, Web Technologies, Python, Data Science
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
