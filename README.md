@@ -32,11 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaushikRprasad&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikRprasad&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -44,14 +44,14 @@
 ### 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikRprasad&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 
-[![Kaushik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikr&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kaushik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaushikRprasad&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
