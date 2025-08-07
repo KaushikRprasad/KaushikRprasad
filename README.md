@@ -36,12 +36,9 @@
 📌 Focus: Artificial Intelligence, Web Technologies, Python, Data Science
 
 ---
-### 📊 GitHub Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=KaushikRprasad&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikRprasad&layout=compact&theme=github_dark" />
+### 📊 GitHub Statsz
+<img src="https://github-readme-stats.vercel.app/api?username=KaushikRprasad&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikRprasad&layout=compact&theme=github_dark" />
 
 
 ---
