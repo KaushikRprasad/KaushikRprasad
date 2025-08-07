@@ -32,11 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushikr&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushik&show_icons=true&theme=github_dark" alt="kaushikr's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikr&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikr&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik&layout=compact&theme=github_dark" />
 </p>
 
 ---
